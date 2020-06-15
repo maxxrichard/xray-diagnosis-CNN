@@ -1,1 +1,2 @@
-# Classification of chest X-Rays for diagnosis by using convolution network.
+# Identifying diseases in chest X-rays using convolutional neural networks
+
